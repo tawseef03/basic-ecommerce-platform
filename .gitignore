@@ -1,0 +1,22 @@
+# Build output
+bin/
+obj/
+
+# IDE
+.vs/
+.vscode/
+.idea/
+*.user
+*.suo
+
+# Test results
+TestResults/
+coverage*/
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Local secrets / env
+*.env
+appsettings.*.local.json
